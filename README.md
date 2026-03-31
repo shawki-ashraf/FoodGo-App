@@ -26,7 +26,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Splash Screen
 
 <p align="center">
-  <img src="assets/images/foodgo-splash.jpg" width="300"/>
+  <img src="foodgo-splash.jpg" width="300"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Login Screen
 
 <p align="center">
-  <img src="assets/images/foodgo-login.jpg" width="300"/>
+  <img src="foodgo-login.jpg" width="300"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Home Screen
 
 <p align="center">
-  <img src="assets/images/foodgo-home.jpg" width="300"/>
+  <img src="foodgo-home.jpg" width="300"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Product Details
 
 <p align="center">
-  <img src="assets/images/foodgo-deatiles.jpg" width="300"/>
+  <img src="foodgo-deatiles.jpg" width="300"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 More Details
 
 <p align="center">
-  <img src="assets/images/foodgo-deatiles2.jpg" width="300"/>
+  <img src="foodgo-deatiles2.jpg" width="300"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Create Order
 
 <p align="center">
-  <img src="assets/images/foodgo-ceate.jpg" width="300"/>
+  <img src="foodgo-ceate.jpg" width="300"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Cart Loading
 
 <p align="center">
-  <img src="assets/images/cart-loading.jpg" width="300"/>
+  <img src="cart-loading.jpg" width="300"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Order Created
 
 <p align="center">
-  <img src="assets/images/order-created.jpg" width="300"/>
+  <img src="order-created.jpg" width="300"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Profile
 
 <p align="center">
-  <img src="assets/images/profile.jpg" width="300"/>
+  <img src="profile.jpg" width="300"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ### 🔹 Logout
 
 <p align="center">
-  <img src="assets/images/logout.jpg" width="300"/>
+  <img src="logout.jpg" width="300"/>
 </p>
 
 ---
@@ -112,6 +112,24 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 
 ---
 
+## 🏗 Project Structure
+
+```
+lib/
+│
+├── core/
+├── features/
+│   ├── home/
+│   ├── cart/
+│   ├── auth/
+│   └── profile/
+│
+├── shared/
+└── main.dart
+```
+
+---
+
 ## 🎥 Demo Video
 
 👉 [Watch Demo](https://drive.google.com/file/d/1REhWhN3Ha0ndKoBkY1c3iFunDNHvRTxr/view?usp=drivesdk)
@@ -121,6 +139,7 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 ## ⚠️ Note
 
 This project was built as a learning project and is still under improvement.
+More features and enhancements will be added soon.
 
 ---
 
