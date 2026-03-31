@@ -21,28 +21,84 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 
 ---
 
-## 📱 App Screens
+## 📱 App Flow
+
+### 🔹 Splash Screen
 
 <p align="center">
-  <img src="assets/images/foodgo-splash.jpg" width="250"/>
-  <img src="assets/images/foodgo-login.jpg" width="250"/>
-  <img src="assets/images/foodgo-home.jpg" width="250"/>
+  <img src="assets/images/foodgo-splash.jpg" width="300"/>
 </p>
 
-<p align="center">
-  <img src="assets/images/foodgo-deatiles.jpg" width="250"/>
-  <img src="assets/images/foodgo-deatiles2.jpg" width="250"/>
-  <img src="assets/images/foodgo-ceate.jpg" width="250"/>
-</p>
+---
+
+### 🔹 Login Screen
 
 <p align="center">
-  <img src="assets/images/cart-loading.jpg" width="250"/>
-  <img src="assets/images/order-created.jpg" width="250"/>
-  <img src="assets/images/profile.jpg" width="250"/>
+  <img src="assets/images/foodgo-login.jpg" width="300"/>
 </p>
 
+---
+
+### 🔹 Home Screen
+
 <p align="center">
-  <img src="assets/images/logout.jpg" width="250"/>
+  <img src="assets/images/foodgo-home.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 Product Details
+
+<p align="center">
+  <img src="assets/images/foodgo-deatiles.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 More Details
+
+<p align="center">
+  <img src="assets/images/foodgo-deatiles2.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 Create Order
+
+<p align="center">
+  <img src="assets/images/foodgo-ceate.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 Cart Loading
+
+<p align="center">
+  <img src="assets/images/cart-loading.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 Order Created
+
+<p align="center">
+  <img src="assets/images/order-created.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 Profile
+
+<p align="center">
+  <img src="assets/images/profile.jpg" width="300"/>
+</p>
+
+---
+
+### 🔹 Logout
+
+<p align="center">
+  <img src="assets/images/logout.jpg" width="300"/>
 </p>
 
 ---
@@ -56,24 +112,6 @@ The app focuses on clean UI, smooth user experience, and scalable architecture.
 
 ---
 
-## 🏗 Project Structure
-
-```
-lib/
-│
-├── core/
-├── features/
-│   ├── home/
-│   ├── cart/
-│   ├── auth/
-│   └── profile/
-│
-├── shared/
-└── main.dart
-```
-
----
-
 ## 🎥 Demo Video
 
 👉 [Watch Demo](https://drive.google.com/file/d/1REhWhN3Ha0ndKoBkY1c3iFunDNHvRTxr/view?usp=drivesdk)
@@ -83,7 +121,6 @@ lib/
 ## ⚠️ Note
 
 This project was built as a learning project and is still under improvement.
-More features and enhancements will be added soon.
 
 ---
 
